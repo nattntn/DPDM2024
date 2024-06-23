@@ -7,3 +7,9 @@
 | Programming Assignment | 30% |
 | Midterm Exam | 25% |
 | Final Exam | 20% |
+
+
+# Research Project 
+- [Towards Domain-Specific Explainable AI: Model Interpretation of a Skin Image Classifier using a Human Approach](https://drive.google.com/file/d/1eIdSXnHjDQwgVPWEDzKjkcZ2pJuGydm7/view)
+- Slides udate
+
