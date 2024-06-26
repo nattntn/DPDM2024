@@ -11,5 +11,5 @@
 
 # Research Project 
 - [Towards Domain-Specific Explainable AI: Model Interpretation of a Skin Image Classifier using a Human Approach](https://drive.google.com/file/d/1eIdSXnHjDQwgVPWEDzKjkcZ2pJuGydm7/view)
-- Slides udate
+- [Slides update](https://github.com/nattntn/DPDM2024/tree/main/Research%20Project)
 
