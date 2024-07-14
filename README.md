@@ -4,15 +4,15 @@
 # 📅 Calendar
 |  ᴄʟᴀꜱꜱ  |     ᴅᴀᴛᴇ      |               ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ                        | ʟᴇᴄᴛᴜʀᴇ  | ᴠɪᴅᴇᴏ  |
 |:-------:|:-------------:|:-----------------------------------------------:|:---------:|:--------:|
-|   1- 2  |  ᴊᴜɴ 19, ᴊᴜʟ 7, 2024 |                             | [ʟᴇᴄᴛᴜʀᴇ]() | [<img width="18" src="lecture/youtube.png"/>]() [<img width="18" src="lecture/youtube.png"/>]()|
-|   2     | |       | [ʟᴇᴄᴛᴜʀᴇ]() | [<img width="18" src="lecture/youtube.png"/>]()|
-|   3     |  | | [ʟᴇᴄᴛᴜʀᴇ]() [ʟᴇᴄᴛᴜʀᴇ]() | [<img width="18" src="lecture/youtube.png"/>]()|
-|   4     |  |  | [ʟᴇᴄᴛᴜʀᴇ]() | [<img width="18" src="lecture/youtube.png"/>]()|
-|   5     |  |                   |  <a href="./lecture/PythonScript.md#ตอนใช้งาน">ʟᴇᴄᴛᴜʀᴇ</a> | [<img width="18" src="lecture/youtube.png"/>]()|
-|   6     |  |                   |  [ʟᴇᴄᴛᴜʀᴇ]() | [<img width="18" src="lecture/youtube.png"/>]()|
-|   7     |   |                    |  <a href="./lecture/Web.md#WebApplication">ʟᴇᴄᴛᴜʀᴇ</a> | [<img width="18" src="lecture/youtube.png"/>]() [<img width="18" src="lecture/youtube.png"/>]()|
-|   8     | |                        |  [ʟᴇᴄᴛᴜʀᴇ]() | [<img width="18" src="lecture/youtube.png"/>]()|
-|   9     |  |   |  [ʟᴇᴄᴛᴜʀᴇ]() | [<img width="18" src="lecture/youtube.png"/>]() [<img width="25" src="lecture/colab-logo.png"/>]()|
+|   1- 2  | ᴊᴜɴ 19, ᴊᴜʟ 7, 2024 |                                          | [<img width="25" src="Doc/colab-logo.png"/>](Python101_(dpdm2024).ipynb)| [<img width="18" src="Doc/youtube.png"/>](https://youtu.be/yPsk4Eqe1qI) [<img width="18" src="Doc/youtube.png"/>](https://youtu.be/pRwFkYGwUEQ)|
+|   2     | |       | [ʟᴇᴄᴛᴜʀᴇ]() | [<img width="18" src="Doc/youtube.png"/>]()|
+|   3     |  | | [ʟᴇᴄᴛᴜʀᴇ]() [ʟᴇᴄᴛᴜʀᴇ]() | [<img width="18" src="Doc/youtube.png"/>]()|
+|   4     |  |  | [ʟᴇᴄᴛᴜʀᴇ]() | [<img width="18" src="Doc/youtube.png"/>]()|
+|   5     |  |                   |  <a href="./Doc/PythonScript.md#ตอนใช้งาน">ʟᴇᴄᴛᴜʀᴇ</a> | [<img width="18" src="Doc/youtube.png"/>]()|
+|   6     |  |                   |  [ʟᴇᴄᴛᴜʀᴇ]() | [<img width="18" src="Doc/youtube.png"/>]()|
+|   7     |   |                    |  <a href="./Doc/Web.md#WebApplication">ʟᴇᴄᴛᴜʀᴇ</a> | [<img width="18" src="Doc/youtube.png"/>]() [<img width="18" src="Doc/youtube.png"/>]()|
+|   8     | |                        |  [ʟᴇᴄᴛᴜʀᴇ]() | [<img width="18" src="Doc/youtube.png"/>]()|
+|   9     |  |   |  [ʟᴇᴄᴛᴜʀᴇ]() | [<img width="18" src="Doc/youtube.png"/>]() [<img width="25" src="Doc/colab-logo.png"/>]()|
 
 ***ᴘꜱ. ᴀʟʟ ᴠɪᴅᴇᴏꜱ ᴀʀᴇ ꜱᴇᴛ ᴛᴏ ᴘʀɪᴠᴀᴛᴇ.***
 
