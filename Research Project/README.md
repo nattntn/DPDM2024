@@ -20,3 +20,8 @@
 |:-------:|:-------------:|:-----------------------------------------------:  |:---------:|
 |    1    | ᴊᴜɴ 25, 2024  |  ᴏᴠᴇʀᴠɪᴇᴡ                                         |[ʜᴇʀᴇ](https://github.com/nattntn/DPDM2024/blob/main/Research%20Project/Slide/Update_25_06_67.pdf) |
 |    2    | ᴊᴜʟ 09, 2024  | ꜱᴇᴄᴛɪᴏɴ 1: ɪɴᴛʀᴏᴅᴜᴄᴛɪᴏɴ,  ꜱᴇᴄᴛɪᴏɴ 2: ʀᴇʟᴀᴛᴇᴅ ᴡᴏʀᴋ  | [ʜᴇʀᴇ](https://github.com/nattntn/DPDM2024/blob/main/Research%20Project/Slide/Update_09_07_67.pdf)    |
+|    3    | ᴏᴄᴛ 01, 2024  | ꜱᴇᴄᴛɪᴏɴ 3: ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ,  ꜱᴇᴄᴛɪᴏɴ 4: ʀᴇꜱᴜʟᴛ  | [ʜᴇʀᴇ](https://github.com/nattntn/DPDM2024/blob/main/Research%20Project/Slide/Update_1_10_67.pdf)   |
+
+
+
+
