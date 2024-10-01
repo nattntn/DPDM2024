@@ -29,3 +29,9 @@
 - [Towards Domain-Specific Explainable AI: Model Interpretation of a Skin Image Classifier using a Human Approach](https://drive.google.com/file/d/1eIdSXnHjDQwgVPWEDzKjkcZ2pJuGydm7/view)
 - [Slides update](https://github.com/nattntn/DPDM2024/tree/main/Research%20Project)
 
+# ᴍɪᴅᴛᴇʀᴍ ꜱᴇᴍᴇꜱᴛᴇʀ 1/2024
+|  ɴᴏ  |          ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ                 | ᴅᴀᴛᴀ   | ᴄᴏʟᴀʙ  | ᴠɪᴅᴇᴏ  |
+|:----:|:------------------------------------:|:------:|:------:|:-------:|
+|  1   |ꜰɪɴᴅ ᴍᴜʀᴅᴇʀ ɪɴ ꜱQʟ ᴄɪᴛʏ |[<img width="18" src="Doc/drive.webp"/>](https://drive.google.com/drive/folders/15z9pnjM2cJwLU2ewL_JFPc3LJhrDmcbV?usp=drive_link)              |[<img width="18" src="Doc/colab-logo.png"/>](https://github.com/nattntn/DPDM2024/blob/main/Exam_dpdm_midterm.ipynb)|[<img width="18" src="Doc/youtube.png"/>](https://drive.google.com/drive/folders/1lFlR4KhA9mbaboTroe_3JVPXOGY-MNd5?usp=drive_link)|
+|  2   | ᴍᴀɴᴀɢᴇ ᴀɴᴅ ᴘʀᴇꜱᴇɴᴛ ɪɴᴛᴇʀᴇꜱᴛɪɴɢ ᴘᴏɪɴᴛꜱ ꜰʀᴏᴍ ᴅᴀᴛᴀ |[<img width="18" src="Doc/drive.webp"/>](https://drive.google.com/drive/folders/1vSm6imKOfZqw9Tx1i6GTdvukQbHDkLyf?usp=drive_link)              |[<img width="18" src="Doc/colab-logo.png"/>](https://github.com/nattntn/DPDM2024/blob/main/Exam_2_dpdm_midterm.ipynb)|[<img width="18" src="Doc/youtube.png"/>](https://drive.google.com/drive/folders/1lFlR4KhA9mbaboTroe_3JVPXOGY-MNd5?usp=drive_link)|
+
