@@ -26,8 +26,34 @@
 
 
 # Research Project 
-- [Towards Domain-Specific Explainable AI: Model Interpretation of a Skin Image Classifier using a Human Approach](https://drive.google.com/file/d/1eIdSXnHjDQwgVPWEDzKjkcZ2pJuGydm7/view)
-- [Slides update](https://github.com/nattntn/DPDM2024/tree/main/Research%20Project)
+## [Paper](https://drive.google.com/file/d/1eIdSXnHjDQwgVPWEDzKjkcZ2pJuGydm7/view) 👑
+**Title:** Towards Domain-Specific Explainable AI: Model Interpretation of a Skin Image Classifier using a Human Approach  
+**Author:** Stieler, Fabian and Rabe, Fabian and Bauer, Bernhard  
+**Year:** 2021  
+**Reference:**
+```
+@inproceedings{stieler2021towards,
+  title={Towards domain-specific explainable AI: model interpretation of a skin image classifier using a human approach},
+  author={Stieler, Fabian and Rabe, Fabian and Bauer, Bernhard},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1802--1809},
+  year={2021}
+}
+```
+
+
+
+## 📅 Calendar
+|  ᴄʟᴀꜱꜱ  |     ᴅᴀᴛᴇ      |               ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ                          |   ꜱʟɪᴅᴇꜱ    |
+|:-------:|:-------------:|:-----------------------------------------------:  |:---------:|
+|    1    | ᴊᴜɴ 25, 2024  |  ᴏᴠᴇʀᴠɪᴇᴡ                                         |[ʜᴇʀᴇ](https://github.com/nattntn/DPDM2024/blob/main/Research%20Project/Slide/Update_25_06_67.pdf) |
+|    2    | ᴊᴜʟ 09, 2024  | ꜱᴇᴄᴛɪᴏɴ 1: ɪɴᴛʀᴏᴅᴜᴄᴛɪᴏɴ,  ꜱᴇᴄᴛɪᴏɴ 2: ʀᴇʟᴀᴛᴇᴅ ᴡᴏʀᴋ  | [ʜᴇʀᴇ](https://github.com/nattntn/DPDM2024/blob/main/Research%20Project/Slide/Update_09_07_67.pdf)    |
+|    3    | ᴏᴄᴛ 01, 2024  | ꜱᴇᴄᴛɪᴏɴ 3: ᴇxᴘᴇʀɪᴍᴇɴᴛᴀʟ,  ꜱᴇᴄᴛɪᴏɴ 4: ʀᴇꜱᴜʟᴛ  | [ʜᴇʀᴇ](https://github.com/nattntn/DPDM2024/blob/main/Research%20Project/Slide/Update_1_10_67.pdf)   |
+|    4    | ᴏᴄᴛ 31, 2024  | ꜰɪɴᴀʟ ᴘʀᴇꜱᴇɴᴛᴀᴛɪᴏɴ  | [ʜᴇʀᴇ](https://github.com/nattntn/DPDM2024/blob/main/Research%20Project/Slide/Skin_Image_Classifier_presentation.pdf)   |
+
+## Code
+[<img width="25" src="Doc/colab-logo.png"/>](Research_project.ipynb)
+
 
 # ᴍɪᴅᴛᴇʀᴍ ꜱᴇᴍᴇꜱᴛᴇʀ 1/2024
 |  ɴᴏ  |          ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ                 | ᴅᴀᴛᴀ   | ᴄᴏʟᴀʙ  | ᴠɪᴅᴇᴏ  |
